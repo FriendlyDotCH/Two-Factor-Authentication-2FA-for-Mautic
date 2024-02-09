@@ -1,12 +1,20 @@
 # Mautic Google Authenticator
 
-A Mautic plugin for two-step verification login with Google Authenticator.
+Two-Factor Authentication for Mautic with all OATH compatible authenticator tools like Google Authenticator, Microsoft Authenticator or Twilio Authy.
+
+## Origin
+This Plugin has been forked from Hostnet / Google Authenticator
 
 ## Installation
 
 ### Requirements
-- Mautic 3.0+
-- PHP 7.2+
+- Mautic 4.0+
+- PHP 7.4 - 8.0+
+
+### Tested on
+- Mautic 4.4.11
+- Google Authenticator
+- Twilio Authy
 
 Download this project as a zip file and extract the content from the zip file.
 
