@@ -36,7 +36,14 @@ Once you've done that, when you log into your Mautic you'll be requested to ente
 
 In the options you can set how many days you wish to not enter the code again when you set a browser as trusted.
 
-## Development
+## This repo maintained by:
+
+Friendly Automate - friendly.ch
+
+## Updated by:
+[mzagmaijster](https://github.com/mzagmajster/mautic-googleauthenticator)
+
+## Original Dveloper:
 
 Este plugin é mantido pela empresa Hostnet Hospedagem de Sites, esperamos que seja útil para você.
 
