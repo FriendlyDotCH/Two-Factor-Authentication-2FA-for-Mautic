@@ -1,4 +1,4 @@
-# Mautic Google Authenticator
+# Two Factor Authentication (2FA) for Mautic
 
 Two-Factor Authentication for Mautic with all OATH compatible authenticator tools like Google Authenticator, Microsoft Authenticator or Twilio Authy.
 
